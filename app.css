@@ -2,3 +2,8 @@ h1{
     background:yellowgreen;
     height: 10px;
 }
+p{
+    color: aqua;
+    height: 40px;
+    width: 30px;
+}
